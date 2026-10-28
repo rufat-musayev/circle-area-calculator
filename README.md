@@ -1,2 +1,10 @@
-# circle-area-calculator
-My first C++ web application
+# Circle Area Calculator
+My first C++ web application.
+## Purpose
+Calculate the area of a circle from its radius.
+## Formula
+Area = PI * radius * radius
+## Technologies
+C++, HTML, JavaScript, WebAssembly
+## Author
+Your name
